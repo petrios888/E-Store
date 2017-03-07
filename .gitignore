@@ -5,5 +5,5 @@
 # IntelliJ
 *.iml
 /.idea
-/.pyc
-settings.py
+*.pyc
+
